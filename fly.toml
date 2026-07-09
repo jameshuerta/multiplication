@@ -1,7 +1,7 @@
 # fly.toml — Blocks & Tables
 # App name must be globally unique on Fly; change if taken.
 app = "blocks-and-tables"
-primary_region = "atl"
+primary_region = "dfw"
 
 [build]
 
